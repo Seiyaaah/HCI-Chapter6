@@ -1,7 +1,7 @@
 [
   {
-    "id": "hci_evaluation_methods",
-    "title": "Human-Computer Interaction: UI Evaluation Criteria and Methods",
-    "description": "Covers usability criteria, user experience (UX), evaluation techniques like cognitive walkthroughs and heuristic evaluation, and safety and ethical considerations in UI evaluation."
+    "id": "hci_mvc",
+    "title": "Human-Computer Interaction: Model-View-Controller (MVC) Pattern",
+    "description": "An introduction to the Model-View-Controller (MVC) design pattern in Human-Computer Interaction, covering the roles of Model, View, and Controller, their interaction flow, real-world analogies, and key benefits."
   }
 ]
